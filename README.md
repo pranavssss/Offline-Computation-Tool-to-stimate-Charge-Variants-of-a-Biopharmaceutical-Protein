@@ -123,6 +123,9 @@ Offline Execution Model:
 --------------------------------------------------
 ## Usage
 --------------------------------------------------
+
+**Run this command in Terminal**
+
 ```bash
 python appfinal.py
 ```
