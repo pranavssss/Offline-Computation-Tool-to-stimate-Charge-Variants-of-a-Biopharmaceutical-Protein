@@ -29,7 +29,9 @@ Key Features
 Core Concept
 --------------------------------------------------
 • Each PTM copy is modeled as an independent discrete random variable
+
 • Total protein charge is the sum of all PTM charge contributions
+
 • Repeated PTMs are handled using optimized mathematical techniques
 
 --------------------------------------------------
@@ -45,7 +47,7 @@ Algorithms
    - Exact and faster than naive convolution
    - Time: O(N log N)
 
-3. Moment Matching (Approximation)
+3. Moment Matching (Approximation) - Bonus algorithm mainly for **Stress Testing**
    - Gaussian approximation using CLT
    - Propagates only mean and variance
    - Very fast, ideal for exploration
