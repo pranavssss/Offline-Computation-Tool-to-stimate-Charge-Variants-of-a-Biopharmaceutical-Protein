@@ -97,6 +97,28 @@ Use Cases
 
 • Academic and research demonstrations
 
+--------------------------------------------------
+Offline Loading
+--------------------------------------------------
+
+Offline UI Loading: 
+
+• The entire user interface is rendered locally, with no online assets, ensuring instant, reliable UI startup.
+
+Offline Algorithm Loading:
+
+• All computational algorithms run fully on-device, requiring no external services or network connectivity.
+
+Offline Resource Loading: 
+
+• All data, presets, and supporting files are loaded from local storage, eliminating any cloud dependencies.
+
+Offline Execution Model: 
+
+• The tool operates as a fully self-contained executable packaged with all dependencies, enabling true offline functionality.
+
+
+**Tkinter UI is embedded inside the executable, so interface assets (themes, layouts, widgets) load instantly without web resources**.
 
 --------------------------------------------------
 ## Usage
