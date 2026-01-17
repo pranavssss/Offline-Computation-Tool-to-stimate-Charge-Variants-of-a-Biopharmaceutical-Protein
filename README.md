@@ -55,7 +55,9 @@ Algorithms
 Data Validation
 --------------------------------------------------
 • Missing field checks
+
 • PMF row-sum enforcement (= 1)
+
 • Negative probability detection
 
 --------------------------------------------------
